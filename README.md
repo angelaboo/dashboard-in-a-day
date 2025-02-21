@@ -6,7 +6,7 @@ The workshop provided hands-on experience with Power BI, covering data import, t
 
 <br>
 
-## Learning Objectives
+## Learning Outcomes
 Through this workshop, I learned how to:
 1. Connect to, import, and transform data from diverse sources.
 2. Build a Power BI data model, create relationships, and add visualizations.
